@@ -14,6 +14,8 @@
 		B38D21611FFCA48500548EE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B38D215F1FFCA48500548EE7 /* LaunchScreen.storyboard */; };
 		B38D216C1FFCA48500548EE7 /* SnapAttackTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B38D216B1FFCA48500548EE7 /* SnapAttackTests.swift */; };
 		B38D21771FFCA48500548EE7 /* SnapAttackUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B38D21761FFCA48500548EE7 /* SnapAttackUITests.swift */; };
+		B38D21861FFCA54900548EE7 /* Cheveuxdange.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B38D21841FFCA51E00548EE7 /* Cheveuxdange.ttf */; };
+		B38D21871FFCA54900548EE7 /* DK Cinnabar Brush.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B38D21851FFCA51E00548EE7 /* DK Cinnabar Brush.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		B38D21721FFCA48500548EE7 /* SnapAttackUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnapAttackUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B38D21761FFCA48500548EE7 /* SnapAttackUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapAttackUITests.swift; sourceTree = "<group>"; };
 		B38D21781FFCA48500548EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B38D21841FFCA51E00548EE7 /* Cheveuxdange.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cheveuxdange.ttf; sourceTree = "<group>"; };
+		B38D21851FFCA51E00548EE7 /* DK Cinnabar Brush.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DK Cinnabar Brush.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				B38D215D1FFCA48500548EE7 /* Assets.xcassets */,
 				B38D215F1FFCA48500548EE7 /* LaunchScreen.storyboard */,
 				B38D21621FFCA48500548EE7 /* Info.plist */,
+				B38D21841FFCA51E00548EE7 /* Cheveuxdange.ttf */,
+				B38D21851FFCA51E00548EE7 /* DK Cinnabar Brush.ttf */,
 			);
 			path = SnapAttack;
 			sourceTree = "<group>";
@@ -232,6 +238,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B38D21861FFCA54900548EE7 /* Cheveuxdange.ttf in Resources */,
+				B38D21871FFCA54900548EE7 /* DK Cinnabar Brush.ttf in Resources */,
 				B38D21611FFCA48500548EE7 /* LaunchScreen.storyboard in Resources */,
 				B38D215E1FFCA48500548EE7 /* Assets.xcassets in Resources */,
 				B38D215C1FFCA48500548EE7 /* Main.storyboard in Resources */,
